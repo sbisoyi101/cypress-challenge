@@ -9,7 +9,7 @@ The goal of this challenge is to create a simple cypress test suite for a simple
 
 ### Function
 
-Given an upper limit of `n`, write a javascript function that will find the median prime number(s) of the set of prime numbers less than n.
+Given an upper limit of `n`, find the median prime number(s) of the set of prime numbers less than n.
 
 ### Example
 
@@ -21,17 +21,17 @@ We will be assessing the challenge based on test practices, code style, working 
 
 ## Goal
 
-Create cypress tests that test for the above two example cases, as well as a test for the failure scenario when the input number is too large (i.e. greater than 10000000)
+Create cypress tests that test for the above two example cases, as well as a test for the failure scenario when the input number is too large (i.e. greater than 10000000). Bonus points for going above and beyond.
 
 ## Submitting
 Fork this repository, commit your code into that fork, and let us know when you are ready for us to review it! Best of luck!
 
 ## Running the Example application
 
-## Clone repostority
+### Clone repository
 Run `git clone https://github.com/TouchBistro/cypress-challenge`
 
-## Install Dependencies
+### Install Dependencies
 Run `npm install` from the top level folder of this repository
 
 ### Running The App
